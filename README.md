@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jose! <br/><a href="https://github.com/yeriej77">Programmer</a>, <a href="https://www.linkedin.com//in/joseantoniourena/">Cybersecurity</a>, and <a>Data Analyst Student</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Hacking Projects (Kali Linux)</b>
-  - [Identifying and Exploiting Vulnerabilities](https://github.com/name)
+  - [Identifying and Exploiting Vulnerabilities](https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities/blob/main/README.md)
 
 <h2>👨‍💻 Data analist:</h2>
 
