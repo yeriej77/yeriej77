@@ -4,7 +4,7 @@
 - <b> Hacking Projects (Kali Linux) </b>
   - [Identifying and Exploiting Vulnerabilities](https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities)
 
-<h2>👨‍💻 Data analist:</h2>
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
