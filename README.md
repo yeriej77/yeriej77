@@ -6,6 +6,9 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
+- <b>Tableau Graphs and Pojects</b>
+  -[Tableau - Interactive Dashboard](https://github.com/yeriej77/Tableau-Dashboard/tree/main)
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
