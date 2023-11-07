@@ -6,14 +6,14 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Tableau Graphs and Pojects</b>
-  -[Tableau - Interactive Dashboard](https://github.com/yeriej77/Tableau-Dashboard/tree/main)
+- <b>Tableau Graphs and Pojects </b>
+    - [Tableau - Interactive Dashboard](https://github.com/yeriej77/Tableau-Dashboard/tree/main)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (VBA)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    -[Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
