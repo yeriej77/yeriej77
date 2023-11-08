@@ -13,7 +13,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (VBA)</b>
-    -[Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    -[English Premier League Project](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
