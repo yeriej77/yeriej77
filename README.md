@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (VBA)</b>
+- <b>MySQL Pojects</b>
     -[English Premier League Project](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
