@@ -13,7 +13,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>MySQL Pojects</b>
-    -[English Premier League Project](https://github.com/)
+    - [English Premier League Project](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
