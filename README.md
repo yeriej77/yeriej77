@@ -15,7 +15,7 @@
 - <b>MySQL Pojects</b>
     - [English Premier League Project](https://github.com/yeriej77/English-Premier-League)
 - <b>Python Pojects</b>
-    - [Yeriel's Burger shop!!](https://github.com/yeriej77/Yeriel-Barbershop)
+    - [Yeriel's Burger shop!!](https://github.com/yeriej77/Yeriel-burgershop)
 
 <h2> 🤳 Connect with me:</h2>
 
