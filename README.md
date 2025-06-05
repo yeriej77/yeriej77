@@ -4,7 +4,14 @@
 - <b> Hacking Projects (Kali Linux) </b>
   - [Identifying and Exploiting Vulnerabilities](https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities)
   - [Managing Technical Vulnerabilities](https://github.com/yeriej77/Managing-Technical-Vulnerabilities)
-
+  - [Creating a Spear Phishing Email with a Metasploit payload](https://open-sorrel-476.notion.site/Creating-a-Spear-Phishing-Email-with-a-Metasploit-payload-171c304c4344804eb37af0afae91b0ec?pvs=143)
+  
+- <b> Security Analyst </b>
+  - [Incident Response Project](https://open-sorrel-476.notion.site/Incident-Response-Project-121c304c434480debde8f81a5d2f2c3a?pvs=143)
+    
+- <b> Networking </b>
+  - [Secure Network Integration and Design for Merging Companies A and B](https://open-sorrel-476.notion.site/Incident-Response-Project-121c304c434480debde8f81a5d2f2c3a?pvs=143)
+ 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Tableau Graphs and Pojects </b>
