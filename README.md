@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jose! <br/><a href="https://github.com/yeriej77">Programmer</a>, <a href="https://www.linkedin.com//in/joseantoniourena/">Cybersecurity</a>, and <a>Data Analyst Student</a>
+<h1>Hi, I'm Jose! <br/><a href="https://github.com/yeriej77">IT Professional </a> and <a href="https://www.linkedin.com/in/joseantoniourena/">Cybersecurity Student</a></a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
 - <b> Hacking Projects (Kali Linux) </b>
@@ -8,6 +8,7 @@
   
 - <b> Security Analyst </b>
   - [Incident Response Project](https://open-sorrel-476.notion.site/Incident-Response-Project-121c304c434480debde8f81a5d2f2c3a?pvs=143)
+  - [Azure Cloud - SIEM Infrastructure and Security](https://example.com)
     
 - <b> Networking </b>
   - [Secure Network Integration and Design for Merging Companies A and B](https://open-sorrel-476.notion.site/Secure-Network-Integration-and-Design-for-Merging-Companies-A-and-B-56165bbf170c4e27b5ca226ea719cfd8?pvs=143)
