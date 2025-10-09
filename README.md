@@ -1,6 +1,9 @@
 <h1>Hi, I'm Jose! <br/><a href="https://github.com/yeriej77">IT Professional </a> and <a href="https://www.linkedin.com/in/joseantoniourena/">Cybersecurity Student</a></a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  
+
+- <b> Azure/Cloud Poject </b>
+-  - [Azure Cloud - SIEM Infrastructure and Security](https://github.com/yeriej77/Azure-Cloud-SIEM)
+
 - <b> Hacking Projects (Kali Linux) </b>
   - [Identifying and Exploiting Vulnerabilities](https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities)
   - [Managing Technical Vulnerabilities](https://github.com/yeriej77/Managing-Technical-Vulnerabilities)
@@ -8,7 +11,6 @@
   
 - <b> Security Analyst </b>
   - [Incident Response Project](https://open-sorrel-476.notion.site/Incident-Response-Project-121c304c434480debde8f81a5d2f2c3a?pvs=143)
-  - [Azure Cloud - SIEM Infrastructure and Security](https://github.com/yeriej77/Azure-Cloud-SIEM)
     
 - <b> Networking </b>
   - [Secure Network Integration and Design for Merging Companies A and B](https://open-sorrel-476.notion.site/Secure-Network-Integration-and-Design-for-Merging-Companies-A-and-B-56165bbf170c4e27b5ca226ea719cfd8?pvs=143)
