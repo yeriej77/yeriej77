@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Azure/Cloud Poject </b>
--  - [Azure Cloud - SIEM Infrastructure and Security](https://github.com/yeriej77/Azure-Cloud-SIEM)
+  - [Azure Cloud - SIEM Infrastructure and Security](https://github.com/yeriej77/Azure-Cloud-SIEM)
 
 - <b> Hacking Projects (Kali Linux) </b>
   - [Identifying and Exploiting Vulnerabilities](https://github.com/yeriej77/Identifying-and-Exploiting-Vulnerabilities)
