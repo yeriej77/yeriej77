@@ -33,8 +33,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+
 [instagram]: https://www.instagram.com/itsyeriel/
 [linkedin]: https://www.linkedin.com//in/joseantoniourena/
-[Email]: mailto:yeriel.antonio.ant@gmail.com
+mailto:yeriel.antonio.ant@gmail.com
 
 
