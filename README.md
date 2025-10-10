@@ -35,5 +35,6 @@
 
 [instagram]: https://www.instagram.com/itsyeriel/
 [linkedin]: https://www.linkedin.com//in/joseantoniourena/
+[Email]: mailto:yeriel.antonio.ant@gmail.com
 
 
