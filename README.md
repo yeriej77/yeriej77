@@ -33,7 +33,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img width="22px" alt="image" src="https://github.com/user-attachments/assets/14bc4f20-90af-447d-8a62-f17c78a42609" />][Email]
+[<img width="24px" alt="image" src="https://github.com/user-attachments/assets/14bc4f20-90af-447d-8a62-f17c78a42609" />][Email]
 
 
 [instagram]: https://www.instagram.com/itsyeriel/
