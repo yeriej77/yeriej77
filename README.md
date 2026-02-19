@@ -5,7 +5,7 @@
   - [Azure Cloud - SIEM Infrastructure and Security](https://github.com/yeriej77/Azure-Cloud-SIEM)
  
 - <b> Vulnerability Management Projects </b>
-  - [Vulnerability Management Program Implementation](https://github.com/yeriej77/Vulnerability-Management-Program-Implementation)
+  - [Vulnerability Management Program Implementation (Tenable Nessus)](https://github.com/yeriej77/Vulnerability-Management-Program-Implementation)
 
 
 - <b> Hacking Projects (Kali Linux) </b>
