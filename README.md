@@ -13,6 +13,7 @@
   - [Creating a Spear Phishing Email with a Metasploit payload](https://open-sorrel-476.notion.site/Creating-a-Spear-Phishing-Email-with-a-Metasploit-payload-171c304c4344804eb37af0afae91b0ec?pvs=143)
   
 - <b> Security Analyst </b>
+  - [Threat Hunt - Finding IoC in Microsoft Defender]([https://open-sorrel-476.notion.site/Incident-Response-Project-121c304c434480debde8f81a5d2f2c3a?pvs=143](https://github.com/yeriej77/threat-hunting-scenario-tor))
   - [Incident Response Project](https://open-sorrel-476.notion.site/Incident-Response-Project-121c304c434480debde8f81a5d2f2c3a?pvs=143)
   - [Managing Technical Vulnerabilities](https://github.com/yeriej77/Managing-Technical-Vulnerabilities)
     
